@@ -1,0 +1,237 @@
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:14:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:18:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:20:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:24:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:28:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:33:	Comment is too large: Too many lines
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:82:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:109:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:160:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:171:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:194:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:208:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:228:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:242:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:276:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:288:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:295:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:303:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:311:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:328:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:340:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:351:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:363:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:374:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:386:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBBuildingHandler.java:394:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBConnection.java:7:	Header comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBConnection.java:9:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBConnection.java:11:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBConnection.java:19:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:9:	Header comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:11:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:11:	To avoid mistakes add a comment at the beginning of the conn field if you want a default access modifier
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:13:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:17:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:21:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:89:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:109:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:128:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:151:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:191:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:221:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:240:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:290:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:318:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:346:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:383:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBHTMLPresenter.java:387:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:18:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:22:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:22:	To avoid mistakes add a comment at the beginning of the conn field if you want a default access modifier
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:24:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:28:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:32:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:46:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:68:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:79:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:91:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:103:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:110:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:117:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:124:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:131:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:138:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:145:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:154:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:195:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\DBUserHandler.java:205:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:30:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:34:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:34:	To avoid mistakes add a comment at the beginning of the conn field if you want a default access modifier
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:36:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:40:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:45:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:47:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:85:	Comment is too large: Too many lines
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:89:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:100:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:154:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:162:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:172:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:181:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:191:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:202:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:206:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:215:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:220:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:241:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:262:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:285:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\ImageHandler.java:316:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\SendMailTLS.java:14:	Header comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\SendMailTLS.java:16:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\SendMailTLS.java:17:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\DbHandler\package-info.java:2:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:25:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:25:	To avoid mistakes add a comment at the beginning of the dbb field if you want a default access modifier
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:26:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:26:	To avoid mistakes add a comment at the beginning of the dbu field if you want a default access modifier
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:27:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:27:	To avoid mistakes add a comment at the beginning of the dbhtml field if you want a default access modifier
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:28:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:28:	To avoid mistakes add a comment at the beginning of the img field if you want a default access modifier
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:30:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:42:	Comment is too large: Too many lines
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:82:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:104:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:141:	Comment is too large: Too many lines
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:156:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:158:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:160:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:162:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:216:	Comment is too large: Too many lines
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:237:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:247:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:285:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:289:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:301:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:305:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:309:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:313:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:317:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:321:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:325:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:329:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:333:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:337:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:341:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:345:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:349:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:353:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:374:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:378:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:382:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:386:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:390:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:394:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:398:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:402:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:406:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:410:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:414:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:418:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:430:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:434:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:438:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:442:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:446:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:450:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\controller\DBController.java:454:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:4:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:8:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:9:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:10:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:11:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:13:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:40:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:44:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:48:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:60:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:64:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:68:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:72:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:76:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:80:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:84:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:88:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Building.java:101:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:3:	Header comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:5:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:6:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:7:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:8:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:9:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:10:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:11:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:12:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:13:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:14:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\Report.java:16:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\User.java:5:	Header comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\User.java:6:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\User.java:7:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\User.java:8:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\User.java:10:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\User.java:33:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\User.java:37:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\User.java:41:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\entities\User.java:45:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\exceptions\DatabaseConnectionException.java:8:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\exceptions\UserExistsException.java:3:	Header comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\exceptions\UserExistsException.java:5:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\Front.java:18:	Header comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\Front.java:20:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\Front.java:21:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\Front.java:22:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\Front.java:24:	Comment is too large: Too many lines
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\Front.java:203:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ImageServlet.java:23:	Header comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ImageServlet.java:25:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ImageServlet.java:25:	To avoid mistakes add a comment at the beginning of the handler field if you want a default access modifier
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ImageServlet.java:79:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:23:	Header comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:25:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:26:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:27:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:28:	Field comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:30:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:36:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:64:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:78:	Comment is too large: Line too long
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:84:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:90:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:96:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:108:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:132:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:138:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:144:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:159:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:165:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:174:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:186:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:193:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:219:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:294:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:302:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:310:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:316:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:320:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:326:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:332:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:339:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:353:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:359:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:367:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:390:	Public method and constructor comments are required
+C:\Users\WilliamPfaffe\Documents\sundebygninger\sundebygninger\BedreBygninger\src\java\servletHandler\ServletMapper.java:397:	Public method and constructor comments are required
